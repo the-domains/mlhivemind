@@ -2,6 +2,7 @@ name: mlhivemind
 favicon: null
 layout_spectrum: 0.8197101440746337
 typography_spectrum: 0.6802982180379331
+title: Machine Learning in Real Life
 cta:
   domain: null
   bucket: null
